@@ -44,14 +44,14 @@
   }
   .cart{
       position: absolute;
-      left: 115%;
-      top:-15%;
+      left: 95%;
+      top:-10%;
       display: inline-block;
   }
   
   h2{
       position:absolute;
-      left: 125%;
+      left: 100%;
       top:-85%;
       font-size: 18px;
       color: white;
@@ -167,6 +167,14 @@ div{
     float: left;
     margin-bottom: 1%;
 }
+/* .box input[type=text] {
+    float: left;
+    padding: 20%;
+    padding-right: 1%;
+    padding-top: 15%;
+    top:-35%;
+    font-size: 55%;
+  } */
 
 
   
